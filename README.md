@@ -1,14 +1,11 @@
-# Пример приложения машинного обучения для развертывания на облачных платформах
+# Приложение для развертывания модели машинного обучения, распознающей вид мусора на поверхности воды
 
-Web-приложение для классификации изображений. Используются библиотеки:
+Используются библиотеки:
 
 - [TensorFlow](https://www.tensorflow.org/).
 - [Streamlit](https://streamlit.io/).
 
-Для распознавания изображений используется нейронная сеть [EfficientNetB0](https://keras.io/api/applications/efficientnet/#efficientnetb0-function). Подробности о модели в статье:
+Для распознавания изображений используется нейронная сеть https://colab.research.google.com/drive/1M7gyTWilO5YkvCwwW586SS_nhnteFN1j
 
-- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946).
-
-[Ссылка на развернутое приложение](https://image-classification-demo.herokuapp.com/).
 
 Тестирование изменений без ключа SSH
